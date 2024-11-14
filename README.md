@@ -12,12 +12,8 @@ A simple project built using Python and Gradio to generate mockups of Twitter tw
 
 - **Python** 3.x
 
-## Installation
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/twitter-tweet-mockup.git
-   cd twitter-tweet-mockup
 
 
-![Beautiful Sunrise](images/sunrise.png)
+<p align="center">
+  <img src="assets/display_image.png" alt="Alt text" />
+</p>
