@@ -20,3 +20,4 @@ A simple project built using Python and Gradio to generate mockups of Twitter tw
    cd twitter-tweet-mockup
 
 
+![Beautiful Sunrise](images/sunrise.png)
